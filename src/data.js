@@ -2,7 +2,7 @@ export default [
   {
     id: 1,
     name: "NSENGIYUMVA CHRISTIAN",
-    age: 21,
+    age: 0,
     image:
       "https://media.licdn.com/dms/image/D4D03AQFFov7JZu54Qg/profile-displayphoto-shrink_800_800/0/1667823935550?e=1686182400&v=beta&t=aewze2U4x5Pyb3TbvSgVIr2BT6YCoMdzEDH20zJwRy0",
   },
